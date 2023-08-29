@@ -1,0 +1,4 @@
+All your templates go here
+- freemarker
+- thymeleaf <-- most popular one now
+- mustache

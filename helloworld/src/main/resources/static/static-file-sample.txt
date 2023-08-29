@@ -1,0 +1,2 @@
+You can dump some static files here :)
+^ this files is ignored by build tools if one generates a JAR :D
